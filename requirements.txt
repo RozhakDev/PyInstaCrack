@@ -1,0 +1,6 @@
+requests
+rich
+futures
+pycryptodomex
+PyNaCl
+cryptography
